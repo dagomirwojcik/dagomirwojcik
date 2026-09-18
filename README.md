@@ -1,22 +1,65 @@
-### Allow me to introduce myself
+<div align="center">
 
-👋🏻 Introduction:
-Hello, I’m Dagomir Wójcik, a Computer Professional and postgraduate student currently pursuing a Master’s Degree in Artificial Intelligence at Birmingham City University. I previously graduated with a First‑Class BSc (Hons) in Business Information Technology, and my academic journey, technical projects, and industry experience reflect a deep passion for computing, intelligent systems, and solving real‑world problems through technology. My motivation to learn and innovate grows with every challenge, and I am ready to apply my skills in professional, research, and industry environments.
+# 👋 Hi, I'm Dagomir Wójcik
 
-💼 Work Experience:
-I currently work within BCU’s Ambassador Scheme, engaging prospective students and supporting recruitment events to ensure they have a positive and informative experience. Alongside this, I serve as a Visiting Demonstrator in Computing and Digital Technology, assisting teaching staff, guiding students through technical concepts, and delivering one‑to‑one support — strengthening my communication, mentoring, and leadership abilities.
+### 🤖 AI Student · 💻 Computer Professional · 🚀 Builder
 
-🎓 Education:
-I am actively studying for my MSc in Artificial Intelligence, beginning in 2026, covering areas such as Computer Vision, Generative AI for NLP and, Machine Learning. I hold a First‑Class BSc (Hons) in Business Information Technology, and before university I achieved AAA* in my T‑Level (BTEC Diploma) studies.
+I turn ideas into practical software, intelligent systems, and meaningful digital experiences.
 
-🌍 Volunteering:
-I strongly believe in giving back to both local and global communities. I have volunteered across multiple educational settings, supporting events and peers. Beyond this, I contribute to global scientific research as a Citizen Scientist, donating computing power to protein‑folding simulations that support the development of cures for major health challenges.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dagomir-wojcik)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white)](https://github.com/dagomirwojcik)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?logo=vercel&logoColor=white)](https://dagomirwojcik.github.io/once-ui-portfolio/)
+[![Profile views](https://komarev.com/ghpvc/?username=dagomirwojcik&style=flat&color=blueviolet)](https://github.com/dagomirwojcik)
 
-💾 Projects::
-I have undertaken a wide range of projects to strengthen my portfolio and deepen my understanding of modern computing, intelligent systems, and infrastructure engineering. My most recent work includes RunCore, an on‑device AI fitness system designed to deliver private, offline workout intelligence for runners. Alongside this, my Final‑Year Honours Project focused on developing a TOGAF‑aligned microservice architecture tailored for healthcare SMEs, demonstrating my ability to design scalable enterprise systems.
+</div>
 
-🎖️ Awards:
-My work has been recognised through several academic and community‑focused awards. I received the Dr Arshad Mahmood Award, which celebrates outstanding contribution, leadership, and excellence within the School of Computing and Digital Technology. Earlier in my academic journey, I was awarded the Hew Watt Award by USP College for exceptional contribution to the social and cultural life of the institution.
+## 🧭 About me
 
-🪪 Certifications:
-To stay aligned with industry trends, I have earned multiple industry‑recognised certifications, including those from Microsoft, Cisco, and, IBM programmes. These complement my academic background and strengthen my technical capabilities.
+I am pursuing an **MSc in Artificial Intelligence at Birmingham City University**, building on a **First-Class BSc (Hons) in Business Information Technology**.
+
+My interests sit at the intersection of **AI, software engineering, architecture, and human impact**. I enjoy learning deeply, building thoughtfully, and helping others grow.
+
+## 🔭 Current focus
+
+| Area | What I'm exploring |
+| --- | --- |
+| 🧠 AI | Machine learning, computer vision, and generative AI for NLP |
+| 🛠️ Engineering | Maintainable software, scalable systems, and cloud architecture |
+| 🎓 Community | Student support, mentoring, demonstrations, and outreach |
+
+## 🚀 Featured projects
+
+### 🏃 RunCore
+Private, offline workout intelligence for runners, powered by on-device AI.
+
+### 🏥 Healthcare architecture
+A TOGAF-aligned microservice architecture designed for healthcare SMEs as my final-year honours project.
+
+## 🏆 Highlights
+
+- 🎖️ **Dr Arshad Mahmood Award** - contribution, leadership, and excellence in computing
+- 🏅 **Hew Watt Award** - contribution to institutional social and cultural life
+- 🌍 **Citizen Scientist** - supporting protein-folding research with donated computing power
+- 👨‍🏫 **Visiting Demonstrator** - helping students understand computing and digital technology
+
+## 🧰 Toolkit
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/AI-Machine_Learning-8A2BE2)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-00BFA5)
+![Architecture](https://img.shields.io/badge/Architecture-FF6B6B)
+![Microsoft](https://img.shields.io/badge/Microsoft_Certified-5E5E5E?logo=microsoft&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_Certified-1BA0D7?logo=cisco&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM_Certified-1261FE?logo=ibm&logoColor=white)
+
+## 📫 Let's connect
+
+Whether it is **AI, software engineering, architecture, education, or an interesting project**, feel free to reach out.
+
+<div align="center">
+
+**Curious by nature. Practical by design. Always building.** ✨
+
+</div>
