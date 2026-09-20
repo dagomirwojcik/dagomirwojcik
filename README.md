@@ -1,22 +1,94 @@
-### Allow me to introduce myself
+# Hi, I'm Dagomir Wójcik 👋
 
-👋🏻 Introduction:
-Hello, I’m Dagomir Wójcik, a Computer Professional and postgraduate student currently pursuing a Master’s Degree in Artificial Intelligence at Birmingham City University. I previously graduated with a First‑Class BSc (Hons) in Business Information Technology, and my academic journey, technical projects, and industry experience reflect a deep passion for computing, intelligent systems, and solving real‑world problems through technology. My motivation to learn and innovate grows with every challenge, and I am ready to apply my skills in professional, research, and industry environments.
+## Computer Professional, AI Student and Technology Enthusiast
 
-💼 Work Experience:
-I currently work within BCU’s Ambassador Scheme, engaging prospective students and supporting recruitment events to ensure they have a positive and informative experience. Alongside this, I serve as a Visiting Demonstrator in Computing and Digital Technology, assisting teaching staff, guiding students through technical concepts, and delivering one‑to‑one support — strengthening my communication, mentoring, and leadership abilities.
+I'm a Computer Professional and University Student studying Artificial Intelligence at **Birmingham City University**. I enjoy building practical technology, exploring computer systems and applying innovative solutions to real-world problems.
 
-🎓 Education:
-I am actively studying for my MSc in Artificial Intelligence, beginning in 2026, covering areas such as Computer Vision, Generative AI for NLP and, Machine Learning. I hold a First‑Class BSc (Hons) in Business Information Technology, and before university I achieved AAA* in my T‑Level (BTEC Diploma) studies.
+My interests include software development, artificial intelligence, enterprise architecture, cloud technologies, healthcare systems, privacy-focused tools and digital innovation.
 
-🌍 Volunteering:
-I strongly believe in giving back to both local and global communities. I have volunteered across multiple educational settings, supporting events and peers. Beyond this, I contribute to global scientific research as a Citizen Scientist, donating computing power to protein‑folding simulations that support the development of cures for major health challenges.
+- 🎓 First-Class BSc (Hons) Business Information Technology graduate
+- 🤖 Starting an MSc in Artificial Intelligence at Birmingham City University
+- 💻 Visiting Demonstrator in Computing and Digital Technology
+- 🏃 Building privacy-first tools for personal running analysis
+- 🧪 Interested in microservices, systems architecture and applied AI
 
-💾 Projects::
-I have undertaken a wide range of projects to strengthen my portfolio and deepen my understanding of modern computing, intelligent systems, and infrastructure engineering. My most recent work includes RunCore, an on‑device AI fitness system designed to deliver private, offline workout intelligence for runners. Alongside this, my Final‑Year Honours Project focused on developing a TOGAF‑aligned microservice architecture tailored for healthcare SMEs, demonstrating my ability to design scalable enterprise systems.
+## Featured Projects
 
-🎖️ Awards:
-My work has been recognised through several academic and community‑focused awards. I received the Dr Arshad Mahmood Award, which celebrates outstanding contribution, leadership, and excellence within the School of Computing and Digital Technology. Earlier in my academic journey, I was awarded the Hew Watt Award by USP College for exceptional contribution to the social and cultural life of the institution.
+### Final-Year Honours Project
 
-🪪 Certifications:
-To stay aligned with industry trends, I have earned multiple industry‑recognised certifications, including those from Microsoft, Cisco, and, IBM programmes. These complement my academic background and strengthen my technical capabilities.
+**Towards a Scalable and Modular System Architecture for Healthcare SMEs: A Microservice Approach**
+
+My final-year project investigated how a microservice-oriented enterprise architecture could help healthcare SMEs modernise legacy systems.
+
+The project focused on:
+
+- Microservices architecture
+- Enterprise Architecture and TOGAF ADM
+- ArchiMate modelling
+- Healthcare interoperability using HL7 and FHIR
+- API-driven system integration
+- Modularity, scalability and maintainability
+- Design Science Research Methodology
+- GDPR- and HIPAA-aligned conceptual design
+
+The outcome was a conceptual architecture blueprint designed to support gradual legacy integration while remaining practical for smaller healthcare organisations.
+
+### RunCore
+
+RunCore is a privacy-first personal running analysis tool. It uses Apple Shortcuts to record workout information and Apple Intelligence to analyse the data locally on-device.
+
+The project is designed around:
+
+- Local processing
+- Privacy-focused data handling
+- Minimal manual input
+- Personalised running insights
+- Apple-native automation
+- No subscriptions or external cloud processing
+
+### Folding@Home
+
+I participate in Folding@Home as a Citizen Scientist, contributing personal computing resources to distributed protein-folding research.
+
+This work supports scientific research into diseases and health conditions including:
+
+- Alzheimer's disease
+- Cancer
+- Parkinson's disease
+- COVID-19
+
+## Technologies and Tools
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CF649A?style=for-the-badge&logo=sass&logoColor=white)
+![MDX](https://img.shields.io/badge/MDX-1B1F24?style=for-the-badge&logo=mdx&logoColor=white)
+
+I also work with:
+
+- Artificial Intelligence
+- Microservices
+- Enterprise Architecture
+- TOGAF and ArchiMate
+- Healthcare interoperability
+- HL7 and FHIR
+- Cloud deployment
+- API design
+- Networking and IT support
+- WordPress and web development
+- Apple Shortcuts and on-device automation
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/dagomir-wojcik)
+- [GitHub](https://github.com/dagomirwojcik)
+- [YouTube](https://www.youtube.com/@dagomirwojcik)
+- [Instagram](https://www.instagram.com/dagomirwojcik)
+- [X](https://x.com/wojcidag)
+- [Portfolio Website](https://dagomirwojcik.com)
+
+---
+
+> Innovative technologist passionate about computers and systems.
