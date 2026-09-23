@@ -1,4 +1,4 @@
-# Hi, I'm Dagomir Wójcik 👋
+# Hi, I'm Dagomir Wójcik 👋🏻
 
 ## Computer Professional, AI Student and Technology Enthusiast
 
