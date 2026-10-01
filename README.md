@@ -10,7 +10,7 @@ My interests include software development, artificial intelligence, enterprise a
 - 🤖 Starting an MSc in Artificial Intelligence at Birmingham City University
 - 💻 Visiting Demonstrator in Computing and Digital Technology
 - 🏃 Building privacy-first tools for personal running analysis
-- 🧪 Interested in microservices, systems architecture and applied AI
+- 🧪 Interested in computing, solutions architecture and applied AI
 
 ## Featured Projects
 
@@ -46,17 +46,6 @@ The project is designed around:
 - Apple-native automation
 - No subscriptions or external cloud processing
 
-### Folding@Home
-
-I participate in Folding@Home as a Citizen Scientist, contributing personal computing resources to distributed protein-folding research.
-
-This work supports scientific research into diseases and health conditions including:
-
-- Alzheimer's disease
-- Cancer
-- Parkinson's disease
-- COVID-19
-
 ## Technologies and Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -69,13 +58,9 @@ This work supports scientific research into diseases and health conditions inclu
 I also work with:
 
 - Artificial Intelligence
-- Microservices
-- Enterprise Architecture
-- TOGAF and ArchiMate
-- Healthcare interoperability
-- HL7 and FHIR
-- Cloud deployment
-- API design
+- Enterprise Systems
+- Database Development
+- IT Consultancy
 - Networking and IT support
 - WordPress and web development
 - Apple Shortcuts and on-device automation
